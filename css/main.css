@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+    border: 3px solid;
+    text-align: center;
+}
+
+.myCV {
+    background-color:rgb(114, 219, 205);
+    border-bottom: 5px solid;
+}
+
+.contact {
+    background-color:rgb(218, 212, 212);
+}
+
+
+.summary {
+    background-color:rgb(218, 212, 212);
+}
+
+
+.educ {
+    background-color:rgb(218, 212, 212);
+}
+
+.interests {
+    background-color:rgb(218, 212, 212);
+}
+
+.references {
+    background-color:rgb(218, 212, 212);
+}
+
+ul li {
+    list-style-type: none;
+}
