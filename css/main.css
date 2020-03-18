@@ -1,7 +1,15 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-
+button
+{
+    position: relative;
+    float: right;
+    background:#9c0202;
+    color:black;
+    top: 0px;
+    right: 0px;
+}
 table {
     width: 100%;
     border: 3px solid;
